@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">A3_231A290080</string>
+
+    <!-- Header -->
+    <string name="header_kicker">INT4211 - LẬP TRÌNH DI ĐỘNG</string>
+    <string name="header_title">Cổng thực hành LTDD</string>
+    <string name="avatar_text">LT</string>
+
+    <!-- Login -->
+    <string name="login_title">Đăng nhập hệ thống</string>
+    <string name="login_subtitle">Nhập MSSV và mật khẩu để tiếp tục</string>
+
+    <string name="hint_student_id">Mã số sinh viên</string>
+    <string name="hint_password">Mật khẩu</string>
+
+    <!-- Dùng cho layout-land -->
+    <string name="email">Mã số sinh viên</string>
+    <string name="password">Mật khẩu</string>
+
+    <string name="remember_me">Ghi nhớ đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="or">hoặc</string>
+    <string name="login_school">Đăng nhập bằng tài khoản trường</string>
+
+    <string name="no_account">Chưa có tài khoản?</string>
+    <string name="register">Đăng ký</string>
+
+    <!-- Student information -->
+    <string name="student_name">Tô Lâm</string>
+    <string name="student_id_line">MSSV: 231A290080</string>
+    <string name="class_line">Lớp: CNTT - LTDD</string>
+    <string name="email_line">231A290080@vhu.edu.vn</string>
+
+    <!-- Profile statistics -->
+    <string name="stat_labs_value">3</string>
+    <string name="stat_labs_label">Học kỳ</string>
+    <string name="stat_score_value">8.5</string>
+    <string name="stat_score_label">Điểm TB</string>
+
+    <!-- Landscape -->
+    <string name="app_title">Cổng thông tin sinh viên</string>
+    <string name="open_constraint">Mở màn hình ConstraintLayout</string>
+
+    <!-- ConstraintLayout -->
+    <string name="constraint_title">ConstraintLayout Demo</string>
+
+    <!-- Snackbar -->
+    <string name="login_success">Đăng nhập thành công</string>
+
+</resources>
